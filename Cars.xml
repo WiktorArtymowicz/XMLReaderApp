@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Person Name = "Wiktor" Surname = "Artymowicz" Age = "28" />
+  <Person Name = "Anna" Surname = "Dąbrowska" Age = "30" />
+</root>
